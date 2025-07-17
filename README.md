@@ -8,11 +8,6 @@
 * Built a front-end dashboard to visualize stock prices and moving averages in real time. (Redis, Node.js, and smoothie.js)
 * Created a scalable cloud deployment environment using Docker, Apache Mesos.
 
-
-# Final Webpage
-![goog](https://user-images.githubusercontent.com/15081532/34710180-1763b4fa-f4cf-11e7-8539-caab561d9dea.png)
-![amzn](https://user-images.githubusercontent.com/15081532/34710184-19378b44-f4cf-11e7-98d4-857d84535839.png)
-
 # How to run ?
 
 Run flask-data-producer.py
